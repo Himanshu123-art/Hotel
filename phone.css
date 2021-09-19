@@ -1,0 +1,32 @@
+
+.list-class a{
+    font-size: 1.3rem;
+}
+.Home-div1{
+    font-size: 1.2rem;
+}
+.btn {
+    display: none;
+}
+
+#list-nav {
+    display: none;
+}
+
+.ResponsiveNavigation {
+    display: block;
+}
+
+.ResponsiveNavigation #hamburger {
+
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 25px;
+    top:20px;
+    
+}
+.Home-div1{
+    margin-top: 100px;
+}
